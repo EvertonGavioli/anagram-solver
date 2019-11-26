@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hack-ti-anagramas", "hack-ti-anagramas\hack-ti-anagramas.csproj", "{1F6C245E-C0C6-4178-ABD5-246035999243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6C245E-C0C6-4178-ABD5-246035999243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6C245E-C0C6-4178-ABD5-246035999243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6C245E-C0C6-4178-ABD5-246035999243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6C245E-C0C6-4178-ABD5-246035999243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43817D27-F54C-49EC-826E-CC92E9823E1F}
+	EndGlobalSection
+EndGlobal
